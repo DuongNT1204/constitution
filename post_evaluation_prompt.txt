@@ -1,8 +1,14 @@
-Given the goal of improving the world by promoting tweets that help people form nuanced, thoughtful perspectives: does this tweet demonstrate intellectual humility, acknowledge complexity, promote understanding, avoid simplistic or adversarial framing, and/or encourage ethical reflection? 
+Your goal is classify if the given post improves the world by helping people form nuanced, thoughtful perspectives.
 
-Tweet 's text provided here:
+Post:
 ```
 {tweet_text}
 ```
+
+Approve it only if it demonstrates ALL of the following: intellectual humility, acknowledge complexity, promote understanding, and avoids simplistic or adversarial framing.
+
+Disapprove any post that does not demonstrate all the specified qualities.
+
+Further, disapprove any post that seem to be directed at customer support.
 
 Respond with only "Approve" or "Disapprove".
