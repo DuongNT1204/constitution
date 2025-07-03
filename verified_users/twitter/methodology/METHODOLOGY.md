@@ -24,7 +24,7 @@ The weight of each account was then calculated based on two criterea:
 1. The number of posts they had in the top Bittensor posts.
 2. Their total engagement on those posts.
 
- [Check this notebook for the exact code used.](./verified_users/twitter/methodology/get_top_bittensor_accounts.ipynb)
+ [Check this notebook for the exact code used.](./get_top_bittensor_accounts.ipynb)
 
 # Top Crypto Accounts
 
