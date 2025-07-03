@@ -1,8 +1,8 @@
-Review the following tweet and determine if it's about Bittensor, a protocol for decentralized AI powered by the native currency TAO. 
+Review the following tweet and determine if it's about the Nuance, a Bittensor subnet with the goal to incentivize naunced and factual conversation on X.
 
 Tweet text:
 ```
 {tweet_text}
 ```
 
-Respond with only "True" if it's about Bittensor, or "False" otherwise.
+Respond with only "True" if it's about Nuance, or "False" otherwise.
