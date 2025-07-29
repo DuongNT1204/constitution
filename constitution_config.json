@@ -5,14 +5,14 @@
             "verified_users": {
                 "twitter": "verified_users/twitter/crypto_target_accounts_july.csv"
             },
-            "weight": 0.5
+            "weight": 0.3
         },
         "nuance_subnet": {
             "prompt_path": "topic_relevance_prompts/nuance_subnet_prompt.txt",
             "verified_users": {
                 "twitter": "verified_users/twitter/bittensor_target_accounts_july.csv"
             },
-            "weight": 0.5
+            "weight": 0.7
         }
     },
     "platforms": {
