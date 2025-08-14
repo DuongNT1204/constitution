@@ -18,7 +18,7 @@
     "platforms": {
         "twitter": {
             "verified_users": [
-                "verified_users/twitter/bittensor_target_accounts_august_followers.csv",
+                "verified_users/twitter/bittensor_target_accounts_august_followers.csv"
             ]
         }
     }
