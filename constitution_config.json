@@ -18,9 +18,7 @@
     "platforms": {
         "twitter": {
             "verified_users": [
-                "verified_users/twitter/crypto_target_accounts_july.csv",
-                "verified_users/twitter/bittensor_target_accounts_july.csv",
-                "verified_users/twitter/kaito_crypto_accounts.csv"
+                "verified_users/twitter/bittensor_target_accounts_august_followers.csv",
             ]
         }
     }
