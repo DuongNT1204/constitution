@@ -5,7 +5,7 @@ Using two AI services to analyze Bittensor-related social posts:
 - **Desearch.ai**: Fetches recent posts from X (Twitter)
 - **Nineteen.ai**: Evaluates content quality
 
-Link to jpynb: [Get_top_post](https://github.com/NuanceNetwork/constitution/blob/new-list-august/verified_users/twitt)
+Link to jpynb: [Get_top_post](https://github.com/NuanceNetwork/constitution/blob/new-list-august/verified_users/twitter/methodology/Get_top_post_Bittensor.ipynb)
 
 ## Data Sources
 
